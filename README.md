@@ -19,5 +19,5 @@
 
 ### 📫 Связаться со мной
 
-- 📬 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💬 Telegram: [@yourhandle](https://t.me/yourhandle)
+- 📬 Email: [fedor.ya.fedor@gmail.com](mailto:fedor.ya.fedor@gmail.com)
+- 💬 Telegram: [@fedorsultan_fun](https://t.me/fedorsultan_fun)
