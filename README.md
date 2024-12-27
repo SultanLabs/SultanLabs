@@ -35,8 +35,8 @@
 ### 📫 Связаться со мной
 
 <p>
-<a href="mailto:your.email@example.com" style="color: white; background: #007acc; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">✉️ Email</a>
-<a href="https://t.me/yourhandle" style="color: white; background: #0088cc; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">💬 Telegram</a>
+<a href="mailto:fedor.ya.fedor@gmail.com" style="color: white; background: #007acc; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">✉️ Email</a>
+<a href="https://t.me/fedorsultan_fun" style="color: white; background: #0088cc; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">💬 Telegram</a>
 </p>
 
 ---
