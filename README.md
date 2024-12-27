@@ -1,23 +1,46 @@
-# 👋 Привет, я Фёдор!
+
+<div style="background: linear-gradient(135deg, #4facfe, #00f2fe); padding: 20px; border-radius: 15px; text-align: center; color: white; font-family: 'Arial', sans-serif;">
+
+# 👋 Привет, я **Фёдор**!
 
 ### 🧑‍💻 О себе
-Я Увлекаюсь **Python** и **Golang**. Постоянно изучаю новые технологии и стремлюсь к созданию эффективных решений.
+Я увлечённый **Python** и **Golang** разработчик. Постоянно изучаю новые технологии, стремлюсь создавать эффективные решения и разрабатывать качественные продукты. 
+
+</div>
 
 ---
+
+
+<div style="font-family: 'Roboto', sans-serif; text-align: center;">
 
 ### 🔧 Мой стек технологий
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+<img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang">
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI">
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django">
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask">
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+<img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite">
+</p>
 
+</div>
 
 ---
 
+
+<div style="font-family: 'Roboto', sans-serif; text-align: center;">
+
 ### 📫 Связаться со мной
 
-- 📬 Email: [fedor.ya.fedor@gmail.com](mailto:fedor.ya.fedor@gmail.com)
-- 💬 Telegram: [@fedorsultan_fun](https://t.me/fedorsultan_fun)
+<p>
+<a href="mailto:your.email@example.com" style="color: white; background: #007acc; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">✉️ Email</a>
+<a href="https://t.me/yourhandle" style="color: white; background: #0088cc; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">💬 Telegram</a>
+</p>
+
+---
+
+
+<img src="https://source.unsplash.com/800x200/?technology,coding" alt="Technology Banner" style="border-radius: 10px; margin-top: 20px;">
+</div>
